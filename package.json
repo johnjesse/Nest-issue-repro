@@ -1,0 +1,12 @@
+{
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "server": "yarn workspace server",
+    "client": "yarn workspace client"
+  },
+  "workspaces": [
+    "server",
+    "client"
+  ]
+}
